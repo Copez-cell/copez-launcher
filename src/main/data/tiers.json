@@ -1,0 +1,11 @@
+{
+  "tiers": [
+    { "id": "S", "label": "S", "minScore": 9.0, "color": "#ff4d4d" },
+    { "id": "A", "label": "A", "minScore": 8.5, "color": "#ff8c42" },
+    { "id": "B", "label": "B", "minScore": 8.0, "color": "#ffd166" },
+    { "id": "C", "label": "C", "minScore": 7.5, "color": "#06d6a0" },
+    { "id": "D", "label": "D", "minScore": 7.0, "color": "#118ab2" },
+    { "id": "E", "label": "E", "minScore": 5.0, "color": "#8e8e93" },
+    { "id": "F", "label": "F", "minScore": 0.0, "color": "#555558" }
+  ]
+}

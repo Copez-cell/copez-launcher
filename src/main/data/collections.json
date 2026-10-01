@@ -1,0 +1,19 @@
+{
+  "collections": [
+    {
+      "id": "col-001",
+      "name": "Favorites",
+      "gameIds": ["game-001", "game-003"]
+    },
+    {
+      "id": "col-002",
+      "name": "Platformers",
+      "gameIds": ["game-001", "game-002"]
+    },
+    {
+      "id": "col-003",
+      "name": "Roguelikes",
+      "gameIds": ["game-003"]
+    }
+  ]
+}

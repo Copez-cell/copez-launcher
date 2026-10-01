@@ -1,0 +1,32 @@
+# dependencies
+node_modules/
+
+# build output
+out/
+dist/
+
+# local secrets -- NEVER commit
+.env
+.env.local
+.env.*.local
+
+# migration/verification artifacts (may contain account data or credentials)
+r2-urls.json
+r2-preview.html
+r2-upload-plan.json
+import-payload.json
+import-tiers.json
+
+# logs
+*.log
+npm-debug.log*
+
+# python
+__pycache__/
+*.pyc
+
+# editor / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

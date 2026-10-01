@@ -1,0 +1,61 @@
+{
+  "games": [
+    {
+      "id": "game-001",
+      "title": "Hollow Knight",
+      "exePath": "C:\\Program Files\\Hollow Knight\\Hollow Knight.exe",
+      "coverImage": "C:\\Users\\hp\\Pictures\\GameArt\\hollow-knight-cover.jpg",
+      "bannerImage": "C:\\Users\\hp\\Pictures\\GameArt\\hollow-knight-banner.jpg",
+      "playtime": 0,
+      "sessions": 0,
+      "lastPlayed": null,
+      "genres": [],
+      "developer": null,
+      "publisher": null,
+      "releaseDate": null,
+      "description": null,
+      "platforms": [],
+      "rawgRating": 0,
+      "ratings": {},
+      "averageRating": 0
+    },
+    {
+      "id": "game-002",
+      "title": "Celeste",
+      "exePath": "C:\\Program Files\\Celeste\\Celeste.exe",
+      "coverImage": "C:\\Users\\hp\\Pictures\\GameArt\\celeste-cover.jpg",
+      "bannerImage": "C:\\Users\\hp\\Pictures\\GameArt\\celeste-banner.jpg",
+      "playtime": 0,
+      "sessions": 0,
+      "lastPlayed": null,
+      "genres": [],
+      "developer": null,
+      "publisher": null,
+      "releaseDate": null,
+      "description": null,
+      "platforms": [],
+      "rawgRating": 0,
+      "ratings": {},
+      "averageRating": 0
+    },
+    {
+      "id": "game-003",
+      "title": "Hades",
+      "exePath": "C:\\Program Files\\Hades\\Hades.exe",
+      "coverImage": "C:\\Users\\hp\\Pictures\\GameArt\\hades-cover.jpg",
+      "bannerImage": "C:\\Users\\hp\\Pictures\\GameArt\\hades-banner.jpg",
+      "playtime": 0,
+      "sessions": 0,
+      "lastPlayed": null,
+      "genres": [],
+      "developer": null,
+      "publisher": null,
+      "releaseDate": null,
+      "description": null,
+      "platforms": [],
+      "rawgRating": 0,
+      "ratings": {},
+      "averageRating": 0
+    }
+  ]
+}
